@@ -1,3 +1,5 @@
+#Electric CMS
+
 Electric CMS is a powerful, flexible, and usable Rails 4 CMS. 
 
 ## Features
