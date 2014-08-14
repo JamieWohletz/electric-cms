@@ -1,7 +1,4 @@
-# ComfortableMexicanSofa
-[![Gem Version](https://badge.fury.io/rb/comfortable_mexican_sofa.svg)](http://rubygems.org/gems/comfortable_mexican_sofa) [![Build Status](https://travis-ci.org/comfy/comfortable-mexican-sofa.svg?branch=master)](https://travis-ci.org/comfy/comfortable-mexican-sofa) [![Dependency Status](https://gemnasium.com/comfy/comfortable-mexican-sofa.png)](https://gemnasium.com/comfy/comfortable-mexican-sofa) [![Code Climate](https://codeclimate.com/github/comfy/comfortable-mexican-sofa.png)](https://codeclimate.com/github/comfy/comfortable-mexican-sofa) [![Coverage Status](https://coveralls.io/repos/comfy/comfortable-mexican-sofa/badge.png?branch=master)](https://coveralls.io/r/comfy/comfortable-mexican-sofa)
-
-ComfortableMexicanSofa is a powerful Rails 4 CMS Engine
+Electric CMS is a powerful, flexible, and usable Rails 4 CMS. 
 
 ## Features
 
